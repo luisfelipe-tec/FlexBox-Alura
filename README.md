@@ -1,6 +1,6 @@
 # FlexBox-Alura
 
-Nesse projeto posicionamos todos os elementos de um site desordenado e implementamos a responsividade para mobile, tudo isso utilizando Flex Box
+Nesse projeto posicionamos todos os elementos de um site desordenado e implementamos a responsividade para mobile, tudo isso utilizando Flex Box<br>
 Antes:<br>![Alurinha _ Cursos online_page-0001](https://user-images.githubusercontent.com/67664122/217977277-959046d6-e394-4eed-8e1d-fda3ea81129c.jpg)<br>
 
 Resultado desktop: 
